@@ -34,10 +34,23 @@ f. We also saved the results to a .txt file:
 ![txt File](https://github.com/SoumyaAbraham/Election-Analysis/blob/main/Screenshots/Deliverable2.PNG)
 --
 
+## Summary:
+You can see that this script is versatile and can be modified to work on various levels.  
 
+a. Analyzing election results for a Student Body President or Class President can uses a very similar script. 
+You could change some of the variables and make it more suitable for the situation.
+
+b. Another example would be the electing local government. Once again, small changes in the variables and taking out county information would allow this piece of script to work.
+
+![example](https://github.com/SoumyaAbraham/Election-Analysis/blob/main/Screenshots/example1.PNG)  
+--
+
+- You can take a look at the script here:  
+[PyPoll.py](https://github.com/SoumyaAbraham/Election-Analysis/blob/main/PyPoll_Challenge.py)
+- You can refer to the .csv file used for this analysis here: 
+[Election Results.csv](https://github.com/SoumyaAbraham/Election-Analysis/blob/main/election_results.csv)
     
-    
 
-
+-------------
 
 
